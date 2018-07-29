@@ -1,2 +1,0 @@
-# react-redux-persone
-test
